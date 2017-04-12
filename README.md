@@ -4,7 +4,7 @@ ferramentas de controle de versão:
 RCV
 CVS
 Source Safe
-SVN
+Clear Case
 Mercurial
 Github
 Butbucket
