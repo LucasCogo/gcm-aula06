@@ -6,9 +6,8 @@ PERFORCE
 CVS
 Source Safe
 bazaar
+Clear Case
 SVN
 Mercurial
-Clear Case
 Git
-Butbucket
 Visual Studio Team Services
