@@ -1,10 +1,13 @@
 # gcm-aula06
 
 ferramentas de controle de versão:
-RCV
+RCS
+PERFORCE
 CVS
 Source Safe
+bazaar
 Clear Case
+SVN
 Mercurial
-Perforce
-Butbucket
+Git
+Visual Studio Team Services
